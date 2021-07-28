@@ -6,7 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello 2nd change Github!");
+            Console.WriteLine("Hello change made on github website!");
         }
     }
 }
